@@ -1,4 +1,4 @@
-# atividade_dac_1
+# Atividade_dac_1
 
 1. Instalar e configurar o Docker em seu computador. 
 
@@ -23,7 +23,6 @@ c. Construa uma nova image (deve ser utilizado o arquivo Dockerfile do passo b)
 
 d. Execute o comando: docker container run -p 8080:8080 
 
- # No arquivo README.md
 4. Inclua uma seção com um resumo das principais vantagens do uso de 
 containers. 
   - Flexibilidade ou portabilidade.
@@ -33,8 +32,7 @@ containers.
   - Segurança
   - Facilidade de gestão
   - Isolamento de falhas
-  
- # No arquivo README.md
+
 5. inclua uma seção com as principais dificuldades que você enfrentou para concluir este roteiro.
 - Não sabia o que era .war, pesquisei e vi que é um binario para Java Web
 - Percebi que podia utilizar outra linguagem e utilizei node JS
